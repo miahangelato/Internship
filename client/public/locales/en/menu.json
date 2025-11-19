@@ -1,0 +1,57 @@
+{
+  "1": {
+    "name": "Tonkatsu",
+    "description": "Crispy deep-fried pork cutlet served with shredded cabbage."
+  },
+  "2": {
+    "name": "Ramen",
+    "description": "Rich pork broth ramen topped with chashu, egg, and negi."
+  },
+  "3": {
+    "name": "Sushi Platter",
+    "description": "Assorted fresh sushi including tuna, salmon, and tamago."
+  },
+  "4": {
+    "name": "Katsudon",
+    "description": "Fried pork cutlet simmered in egg and onions over rice."
+  },
+  "5": {
+    "name": "Tempura Udon",
+    "description": "Udon noodle soup with crispy shrimp and vegetable tempura."
+  },
+  "6": {
+    "name": "Okonomiyaki",
+    "description": "Savory Japanese pancake with cabbage, pork, and sauces."
+  },
+  "7": {
+    "name": "Chicken Karaage",
+    "description": "Juicy soy-marinated fried chicken with lemon and mayo."
+  },
+  "8": {
+    "name": "Gyudon",
+    "description": "Beef simmered with onions over steamed rice."
+  },
+  "9": {
+    "name": "Takoyaki",
+    "description": "Octopus-filled fried balls with bonito flakes & mayo."
+  },
+  "10": {
+    "name": "Matcha Parfait",
+    "description": "Green tea ice cream with mochi, jelly, and sweet red bean."
+  },
+  "cta": "Add to cart",
+  "cartTitle": "Your Cart!",
+  "titlePara": "Please review your items.",
+  "cartEmpty": "Your cart is empty.",
+  "remove": "Remove",
+  "clearCart": "Clear",
+  "checkout": "Checkout",
+  "totalItems": "Total items",
+  "items": "{{count}} items",
+  "notes": "Order Notes (optional):",
+  "placeholder": "Example: Mild spiciness, extra spoonfuls please...",
+  "subtotal": "Subtotal",
+  "tax": "Tax (7%)",
+  "serviceCharge": "Service Charge (10%)",
+  "total": "Total"
+}

@@ -1,0 +1,140 @@
+{
+  "dashboardTitle": "管理者ダッシュボード",
+  "logout": "ログアウト",
+  "welcome": "ようこそ、",
+  "noUser": "ログイン中のユーザーはいません。",
+  "loading": "読み込み中...",
+
+  "stats": {
+    "title": "店舗統計",
+    "subtitle": "注文数・売上・店舗状況の概要です。",
+    "totalOrders": "本日の注文数",
+    "ordersDesc": "前日比：+12％（ダミーデータ）",
+    "revenue": "本日の売上",
+    "revenueDesc": "税込み・プレースホルダーの数値です。",
+    "avgOrderValue": "平均注文金額",
+    "avgOrderDesc": "1件あたりの金額",
+    "activeTables": "稼働中のテーブル数",
+    "activeTablesDesc": "現在注文中のテーブル",
+    "ordersByHour": "時間帯別の注文数",
+    "chartHint": "実際のアプリでは、ここにグラフコンポーネントが入ります。",
+    "chartLegend": "1時間ごとの注文数",
+    "chartPlaceholder": "グラフプレースホルダー",
+    "topItems": "売上上位のメニュー",
+    "topItemsHint": "後でZustandやバックエンドの注文データと連携します。",
+    "item": "メニュー",
+    "orders": "注文数",
+    "revenueShort": "売上",
+    "viewMore": "さらに表示",
+    "period": "報告日: 2025年11月14日",
+    "salesTotal": "総売上高",
+    "vsYesterday": "昨日との比較",
+    "salesCount": "注文数",
+    "avgCheck": "平均チェック",
+    "perCustomer": "顧客ごと",
+    "turnover": "テーブル回転率（時間）",
+    "turnoverNote": "テーブルあたりの平均滞在時間",
+    "channelBreakdown": "チャネルの内訳",
+    "alerts": "今日のアラート",
+    "trendLabel": "傾向：週末に向けて増加",
+    "sampleDataLabel": "サンプルデータのみ",
+    "qr": "テーブルQRコード",
+    "staffEntry": "スタッフ入場",
+    "takeout": "テイクアウト",
+    "slow": "キッチンチケットの遅延",
+    "payRetry": "支払いの再試行",
+    "noAlert": "ノーショーアラート",
+    "createMenu": "メニューの作成",
+
+    "section": {
+      "salesDashboard": "P1: 販売ダッシュボード",
+      "dailyView": "表示: 今日",
+      "menuAnalysis": "P2: メニュー/製品パフォーマンス",
+      "byQuantity": "表示: 数量別",
+      "revenueTrend": "P3: 収益動向分析",
+      "weeklyView": "表示: 毎週",
+      "systemStatus": "P4: システムステータスとSLA",
+      "systemHealth": "システム状態の概要"
+    },
+
+    "metric": {
+      "totalRevenue": "総収益",
+      "avgPerDay": "1日あたりの平均"
+    },
+
+    "filter": {
+      "hotItems": "売れ筋商品",
+      "lowStock": "在庫僅少",
+      "allItems": "すべてのアイテム"
+    },
+
+    "col": {
+      "product": "商品",
+      "category": "カテゴリー",
+      "qty": "数量",
+      "sales": "売上",
+      "profit": "利益率",
+      "status": "ステータス"
+    },
+
+    "system": {
+      "overall": "システムステータス",
+      "normal": "普通",
+      "normalDesc": "重大なインシデントは検出されませんでした。",
+      "activeSessions": "アクティブなセッション",
+      "requests": "リクエスト/分",
+      "errorRate": "エラー率",
+      "slaBreaches": "SLA違反"
+    },
+
+    "sla": {
+      "uptime": "稼働時間（アプリ）",
+      "target": "目標：99.9%",
+      "latency": "平均レイテンシ",
+      "latencyTarget": "100ミリ秒未満",
+      "api": "API成功率",
+      "apiTarget": "目標：99.5%"
+    },
+
+    "actions": {
+      "viewLogs": "ログの表示",
+      "alertSettings": "アラート設定",
+      "maintenance": "メンテナンスモード"
+    },
+
+    "rows": {
+      "1": {
+        "name": "とんかつ",
+        "category": "定食",
+        "sold": 72,
+        "revenue": "¥54,000",
+        "growth": "32%",
+        "status": "人気"
+      },
+      "2": {
+        "name": "ラーメン",
+        "category": "麺類",
+        "sold": 58,
+        "revenue": "¥41,760",
+        "growth": "28%",
+        "status": "安定"
+      },
+      "3": {
+        "name": "寿司盛り合わせ",
+        "category": "寿司",
+        "sold": 23,
+        "revenue": "¥43,700",
+        "growth": "40%",
+        "status": "高級"
+      },
+      "4": {
+        "name": "たこ焼き",
+        "category": "サイド",
+        "sold": 12,
+        "revenue": "¥7,200",
+        "growth": "22%",
+        "status": "在庫少"
+      }
+    }
+  }
+}
