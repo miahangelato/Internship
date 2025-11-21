@@ -1,0 +1,11 @@
+{
+  "brand": "QuickServe",
+  "login": "Login",
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "cart": "Cart",
+    "notifications": "Notifications",
+    "staff": "Call Staff"
+  }
+}

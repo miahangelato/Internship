@@ -1,0 +1,13 @@
+{
+  "title": "店舗管理システム",
+  "subtitle": "セルフオーダーシステム",
+  "usernameLabel": "ユーザー名 / ID",
+  "usernamePlaceholder": "staff",
+  "passwordLabel": "PIN / パスワード",
+  "passwordPlaceholder": "••••••••",
+  "rememberMe": "ログイン状態を保持する",
+  "loginButton": "ログイン",
+  "login": "ログイン",
+  "helpText": "パスワードをお忘れの場合は管理者にお問い合わせください。",
+  "invalidCredentials": "メールアドレスまたはパスワードが無効です。"
+}

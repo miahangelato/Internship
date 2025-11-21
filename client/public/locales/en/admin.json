@@ -1,0 +1,140 @@
+{
+  "dashboardTitle": "Admin Dashboard",
+  "logout": "Log Out",
+  "welcome": "Welcome,",
+  "noUser": "No user logged in.",
+  "loading": "Loading...",
+
+  "stats": {
+    "title": "Store Statistics",
+    "subtitle": "Overview of orders, revenue, and restaurant activity.",
+    "totalOrders": "Total Orders (Today)",
+    "ordersDesc": "Compared to yesterday: +12%",
+    "revenue": "Revenue (Today)",
+    "revenueDesc": "Including tax, placeholder value",
+    "avgOrderValue": "Average Order Value",
+    "avgOrderDesc": "Per completed order",
+    "activeTables": "Active Tables",
+    "activeTablesDesc": "Tables currently ordering",
+    "ordersByHour": "Orders by hour",
+    "chartHint": "In the real app, this would be a chart component.",
+    "chartPlaceholder": "Chart placeholder",
+    "topItems": "Top selling menu items",
+    "topItemsHint": "Later, connect to real order data from Zustand or backend.",
+    "item": "Item",
+    "orders": "Orders",
+    "revenueShort": "Revenue",
+    "viewMore": "View more",
+    "period": "Reporting date: 2025-11-14",
+    "salesTotal": "Total Sales",
+    "vsYesterday": "vs. Yesterday",
+    "salesCount": "Number of Orders",
+    "avgCheck": "Average Check",
+    "perCustomer": "per customer",
+    "turnover": "Table Turnover (hr)",
+    "turnoverNote": "Average stay per table",
+    "chartLegend": "Number of orders",
+    "channelBreakdown": "Channel Breakdown",
+    "alerts": "Today’s Alerts",
+    "trendLabel": "Trend: Increasing towards weekend",
+    "sampleDataLabel": "Sample data only",
+    "qr": "Table QR",
+    "staffEntry": "Staff Entry",
+    "takeout": "Takeout",
+    "slow": "Slow kitchen ticket",
+    "payRetry": "Payment retries",
+    "noAlert": "No-show alerts",
+    "createMenu": "Create Menu",
+
+    "section": {
+      "salesDashboard": "P1: Sales Dashboard",
+      "dailyView": "View: Today",
+      "menuAnalysis": "P2: Menu / Product Performance",
+      "byQuantity": "View: By Quantity",
+      "revenueTrend": "P3: Revenue Trend Analysis",
+      "weeklyView": "View: Weekly",
+      "systemStatus": "P4: System Status & SLA",
+      "systemHealth": "System Health Overview"
+    },
+
+    "metric": {
+      "totalRevenue": "Total revenue",
+      "avgPerDay": "Avg per day"
+    },
+
+    "filter": {
+      "hotItems": "Hot-selling",
+      "lowStock": "Low stock",
+      "allItems": "All items"
+    },
+
+    "col": {
+      "product": "Product",
+      "category": "Category",
+      "qty": "Qty",
+      "sales": "Sales",
+      "profit": "Margin",
+      "status": "Status"
+    },
+
+    "system": {
+      "overall": "System Status",
+      "normal": "NORMAL",
+      "normalDesc": "No major incidents detected.",
+      "activeSessions": "Active sessions",
+      "requests": "Requests / min",
+      "errorRate": "Error rate",
+      "slaBreaches": "SLA breaches"
+    },
+
+    "sla": {
+      "uptime": "Uptime (App)",
+      "target": "Target: 99.9%",
+      "latency": "Average Latency",
+      "latencyTarget": "< 100 ms",
+      "api": "API Success Rate",
+      "apiTarget": "Target: 99.5%"
+    },
+
+    "actions": {
+      "viewLogs": "View logs",
+      "alertSettings": "Alert settings",
+      "maintenance": "Maintenance mode"
+    },
+
+    "rows": {
+      "1": {
+        "name": "Tonkatsu",
+        "category": "Set Meal",
+        "sold": 72,
+        "revenue": "¥54,000",
+        "growth": "32%",
+        "status": "Hot"
+      },
+      "2": {
+        "name": "Ramen",
+        "category": "Noodles",
+        "sold": 58,
+        "revenue": "¥41,760",
+        "growth": "28%",
+        "status": "Stable"
+      },
+      "3": {
+        "name": "Sushi Platter",
+        "category": "Sushi",
+        "sold": 23,
+        "revenue": "¥43,700",
+        "growth": "40%",
+        "status": "Premium"
+      },
+      "4": {
+        "name": "Takoyaki",
+        "category": "Side",
+        "sold": 12,
+        "revenue": "¥7,200",
+        "growth": "22%",
+        "status": "Low stock"
+      }
+    }
+  }
+}

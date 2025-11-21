@@ -1,0 +1,13 @@
+{
+  "title": "Welcome! You are ordering from",
+  "paragraph": "Table #12.",
+  "tagline": "Fresh meals delivered fast and with love.",
+  "search": {
+    "menu": "Search Menu"
+  },
+  "by": {
+    "meals": "By Meals",
+    "price": "By Prices",
+    "desserts": "Desserts"
+  }
+}

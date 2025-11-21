@@ -1,0 +1,13 @@
+{
+  "title": "Store Management System",
+  "subtitle": "Self Order System",
+  "usernameLabel": "Username / ID",
+  "usernamePlaceholder": "staff",
+  "passwordLabel": "PIN / Password",
+  "passwordPlaceholder": "••••••••",
+  "rememberMe": "Keep me logged in",
+  "loginButton": "Log In",
+  "login": "Login",
+  "helpText": "If you forget your password, please contact your administrator.",
+  "invalidCredentials": "Invalid email or password."
+}
