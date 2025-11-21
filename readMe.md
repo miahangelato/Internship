@@ -1,0 +1,3 @@
+- **Nash** - Created the session authentication, validations, and seeding of data.
+- **Kian** - Created the menu, menu category, and menu translations API.
+- **Kristian** - Created the tenant API.
